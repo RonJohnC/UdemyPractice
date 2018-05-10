@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+	margin: 0;
+}
+td {
+	width: 100px;
+	height: 100px;
+}
+
+#gameBoard {
+	margin: auto;
+}
+
+.vertical {
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
+
+.horizontal {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
