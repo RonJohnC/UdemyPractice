@@ -1,0 +1,7 @@
+.winner {
+	color: green;
+}
+
+#p1Display, #p2Display  {
+	font-size: 65px;
+}
